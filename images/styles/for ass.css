@@ -1,0 +1,114 @@
+*{
+    /* position: absolute; */
+    /* height:700px ;
+    width: 1450px; */
+}
+
+
+
+
+
+/* banner styles */
+.banner{
+    
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    background-image: url(../banner/banner2.png);
+    height:700px ;
+    width: 1450px;
+    text-align: right;
+    justify-content: right;
+    padding-right: 25%;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    
+}
+.primary-text{
+    font-size: 3em;
+}
+.top-line{
+    
+    width:300px;
+}
+
+.btn-primary{
+    height: 40px;
+     
+    background-color: #FD6E0A;
+}
+/*middle banner styles*/
+.banner2{
+    display: flex;
+    align-items: center;
+    margin: 0 100px;
+    
+}
+/*my plans*/
+.my-plans{
+    margin-top: 130px;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap: 300px;
+}
+.skill-title{
+    font-weight: 700px;
+    font-size: 25px;
+}
+.skill-description{
+    color: #FD6E0A;
+    
+}
+/*image3*/
+.pic-rd{
+    text-align:center;
+    height: 300px;
+    background-image: url(../watch.png);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.col{
+    color: white;
+}
+.btn-new{
+    color: rgb(22, 20, 20);
+}
+
+.last{
+   justify-content: space-between;
+    background-color: black;
+    display: flex;
+   
+    
+}
+.last>div{
+    margin: 100px 100px;
+}
+.full{
+    width: 200px;
+  
+color: white;
+text-align: left;
+justify-content: left;}
+
+
+
+.bntt{
+    color: red;
+    background-color: white;
+}
+.full2{
+    color: white;
+    /* text-align: right; */
+    /* justify-content: right; */
+    
+}
+.bntto{
+    width:200px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
